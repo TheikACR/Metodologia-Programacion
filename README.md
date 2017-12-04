@@ -16,5 +16,5 @@ Recibir´a como argumento la fila y columna en que se encuentra, tama˜no del ba
 (n´umero comprendido entre 1 y 9) y car´acter indicando la colocaci´on horizontal
 (’H’) o vertical (’V’). El barco puede situarse en la posici´on indicada si las casillas
 que ocupar´ıa no est´an ya ocupadas por otro barco y est´an dentro del tablero
-• operador de asignaci´on
+• operador de asignación
 
