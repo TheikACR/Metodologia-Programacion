@@ -1,4 +1,4 @@
-# Metodologia-Programacion
+# Metodologia Programacion
 
 ## 8 ejercicios de examen de la asignatura MP. Los enunciados:
 
