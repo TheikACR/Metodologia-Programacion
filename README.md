@@ -1,6 +1,8 @@
 # Metodologia Programacion
 
-## 8 ejercicios de examen de la asignatura MP. Los enunciados:
+## 8 ejercicios de examen de la asignatura MP en la UGR.  
+
+### Enunciados:
 
 ### EJERCICIO 1:
 Se desea resolver el problema del juego de los barquitos, para lo que se precisa el dise˜no de la clase Barquitos que contiene toda la informaci´on necesaria para gestionar el tablero de un jugador. Debe incluir una matriz de enteros que permita codificar el estado del tablero, mediante el uso de memoria dinámica. Se pide:
