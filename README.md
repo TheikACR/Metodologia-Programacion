@@ -1,4 +1,4 @@
-# Metodologia Programacion
+# Metodología Programación
 
 ## 8 ejercicios de examen de la asignatura MP en la UGR.  
 
